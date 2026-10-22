@@ -1,0 +1,6 @@
+{
+  "name": "Frost and Flavor — Juice Bar & Presentation",
+  "description": "Interactive business presentation and live student online ordering shop for Frost & Flavor juice bar near Zetech University, featuring student loyalty rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
